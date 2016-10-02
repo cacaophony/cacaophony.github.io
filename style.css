@@ -22,9 +22,6 @@ body {
   padding: 10px;
 }
 
-video::-webkit-media-controls-start-playback-button {
-  display: none;
-}
 
 header {
   background-color: #002147;
