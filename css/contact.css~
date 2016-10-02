@@ -1,0 +1,55 @@
+.underline {
+text-decoration:underline;
+text-align: center;
+}
+
+.termsBold {
+/*background-color:  #59d5d8;*/
+font-weight:bold;
+}
+
+.backgroundCol {
+background-color: #59d5d8;
+padding: 2px;
+height:20px;
+}
+
+.vikCVHeading {
+text-align: center;
+padding: 0 auto;
+margin: 0 auto;
+}
+
+#Vik_Contact {
+background-color: #eee;
+border: 1px solid;
+margin-left: 0 auto;
+margin-right: 0 auto;
+padding: 20px;
+display: inline-block;
+margin-top: 10px;
+text-align: center;
+
+}
+
+.cvli {
+text-align: center;
+margin-left: 0 auto;
+margin-right: 0 auto;
+padding: 0px;
+list-style-type: circle;
+}
+
+.shade {
+background-color: #ddd;
+}
+
+
+.shade1 {
+background-color: rgb(230,230,230);
+}
+
+#vikContain {
+text-align: center;
+}
+

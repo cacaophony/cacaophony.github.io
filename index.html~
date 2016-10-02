@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Dr Vik Watts (BSc MBBS MRCP) - Consultant Psychiatrist</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body>
+
+<div id="wrapper"> <!-- start of wrapper -->
+
+
+<header>
+<h1>Dr Vik Watts</h1>
+<h2>(BSc MBBS MRCP) </h2>
+
+<nav>
+<ul class="main_menu">
+<li> <a href="index.html">about</a></li>
+<li> <a href="cv.html">cv</a></li>
+<li> <a href="locations.html">locations</a></li>
+<li> <a href="terms.html">terms</a></li>
+<li> <a href="contact.html">contact</a></li>
+</ul>
+</nav>
+</header>
+
+<section>
+<div id="bodyContent"><br/>
+
+
+
+<strong class="underline"> Welcome to the website of Dr Vik Watts. Here you can find out more about me, my practice and how to contact me.</strong>
+<br />
+<br />
+<img src="dr-vik-watts-large.jpg" alt="Dr Vik Watts" title="Dr Vik Watts" id="vikPic" class="textWrap "/>
+<p>
+I am a Consultant Psychiatrist with over 25 years experience of working with adult patients in the NHS and in the private sector, specialising in the treatment of <em> addictions, panic attacks, anxiety and depression, stress includingpost traumatic stress disorder,relationship and workplace issues and all forms of mental crises and breakdowns. </em> I currently work in private practice from a variety of locations in central and north London. I normally only work with patients <em>aged 17 and over</em>.</p>
+<br />
+
+<p> I take a keen interest in the experience of my patients and consequently the best therapies and therapeutic approaches, which will suit any individual person.I prescribe medicines but sees my role as attending to the patient in their entirety and not on a narrow basis.</p>
+<br />
+<p> I work with many Therapists and Psychologists and refer to many different modalities of therapy including <em>CBT, Schema, Addictions,Psychodynamic. DBT, Interpersonal, EMDR, psychodrama, anxiety management, Co dependence specialists and many others</em>.</p>
+<br />
+<p> Whilst I was training, I undertook both a Jungian and Freudian psycho- analysis and  i have worked closely with therapists throughout my career as
+I believe in teamwork and a holistic approach to get the best results.</p>
+<br />
+<p> I regularly engage in out patient, day hospital and in-patient treatment . I treat day patients and in-patients at the <em>Priory Hospital, North London. </em>I do carry out home visits and consultations abroad but these are  based on individual enquiry.</p>
+
+<br />
+<p> To make an appointment with me, please view the <a href="#Contact" class="linkColor"> Contact</a> page, or get in touch with my secretary, Marilyn Murray via telephone on 0208 920 5627 or  email </em> <a href="mailto:marilynmurray@priorygroup.com?Subject=Appointment with Dr Watts" target="_top" class="linkColor">marilynmurray@priorygroup.com</a></p> 
+<br />
+<hr />
+</span>
+</section>
+
+
+<p><br/>
+<div id="contactVid">
+
+	<video controls id="vikVid"
+	    <source src="vikVid.mp4" type="video/mp4">
+	</video>
+</div>
+
+</div> <!-- /end of wrapper -->
+</body>
+</html>

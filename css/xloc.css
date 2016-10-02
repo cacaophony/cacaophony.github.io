@@ -1,0 +1,74 @@
+* {
+width: auto;
+}
+
+html {
+background-color: #000;
+}
+.underline {
+text-decoration:underline;
+text-align: center;
+}
+
+.vikCVHeading {
+text-align: center;
+padding: 0;
+margin: 0 auto;
+}
+
+#Vik_Loc {
+background-color: #eee;
+border: 1px solid;
+margin-left: 0 auto;
+margin-right: 0 auto;
+padding: 20px;
+display: inline-block;
+margin-top: 10px;
+
+text-align: center.hide;
+
+}
+
+#smallHead {
+text-align: center;
+padding: 0;
+margin: 0 auto;
+text-decoration: underline.hide;
+font-weight: bold;
+width: auto;
+}
+
+.cvli {
+text-align: center;
+margin-left: 0 auto;
+margin-right: 0 auto;
+padding: 0px;
+list-style-type: circle;
+}
+
+.shade {
+background-color: #ddd;
+}
+
+
+.shade1 {
+background-color: rgb(230,230,230);
+}
+
+#vikContain {
+text-align: center;
+}
+
+#vikTable {
+border: 1px solid;
+width: auto;
+}
+
+thead {
+background-color: #59d5d8;
+}
+
+strong {
+color: #404040;
+text-decoration: 1px underline;
+}

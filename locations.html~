@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Dr Vik Watts (BSc MBBS MRCP) - Consultant Psychiatrist</title>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body>
+
+<div id="wrapper"> <!-- start of wrapper -->
+
+
+<header>
+<h1>Dr Vik Watts</h1>
+<h2>(BSc MBBS MRCP) </h2>
+
+<nav>
+<ul class="main_menu">
+<li> <a href="index.html">about</a></li>
+<li> <a href="cv.html">cv</a></li>
+<li> <a href="locations.html">locations</a></li>
+<li> <a href="terms.html">terms</a></li>
+<li> <a href="contact.html">contact</a></li>
+</ul>
+</nav>
+</header>
+
+<section>
+<div id="bodyContent"><br/>
+
+<div id="centerMe">
+<h3><span class="underline">Locations</span></h3>
+</div>
+
+<div id="vikContain">
+<div id="Vik_Loc">
+<br/>
+<div id="smallHead"> I currently work at the following locations on the days below.</div>
+<br />
+
+<!-- START OF TABLE -->
+<table id="vikTable">
+<!-- table division -->
+<!-- 
+<thead>
+<tr>
+<th>Mondays (AM)</th>
+<th>Mondays (PM)</th>
+<tr/>
+
+<tr>
+<th>Tuesdays (AM)</th>
+<th>Tuesdays (PM)</th>
+<tr/>
+
+</thead>
+
+<tbody>
+
+<tr> 
+<td>Spire Harpenden Hospital<br/>Ambrose Lane<br/>Harpenden<br/>Hertfordshire AL5 4BP</td>
+<td>The Priory Hospital<br/>North London,<br/>Grovelands House<br/>The Bourne<br/>Southgate<br/>London N14 6RA</td>
+</tr>
+
+</tbody>
+
+Mondays (AM)
+-->
+
+
+<thead>
+<tr>
+<th>Monday (AM)</th>
+<th>Monday (PM)</th>
+<th>Monday (Eve.)</th>
+<tr/>
+</thead>
+
+<tbody>
+<tr> 
+<td><strong><a href="https://www.google.co.uk/maps/place/Spire+Harpenden+Hospital/@51.828013,-0.3624517,17z/data=!3m1!4b1!4m5!3m4!1s0x4876386be22d0e41:0x11038db325c04961!8m2!3d51.828013!4d-0.360263" target="_blank">Spire Harpenden Hospital</strong><br/>Ambrose Lane<br/>Harpenden<br/>Hertfordshire AL5 4BP</a></td>
+<td><strong><a href="https://www.google.co.uk/maps/place/The+Priory+Hospital+North+London/@51.6323533,-0.119943,17z/data=!3m1!4b1!4m5!3m4!1s0x487619229fa289f1:0xcba8cabbb6b62d1f!8m2!3d51.6323533!4d-0.1177543" target="_blank">The Priory Hospital</strong><br/>North London,<br/>Grovelands House<br/>The Bourne<br/>Southgate<br/>London N14 6RA</a></td>
+<td><strong>N/A</strong></td>
+</tr>
+</tbody>
+
+<!-- table division -->
+<thead>
+<tr>
+<th>Tuesday (AM)</th>
+<th>Tuesday (PM)</th>
+<th>Tuesday (Eve.)</th>
+<tr/>
+</thead>
+
+<tbody>
+<tr> 
+<td><strong><a href="https://www.google.co.uk/maps/place/BMI+The+Clementine+Churchill+Hospital/@51.565073,-0.3343637,17z/data=!3m1!4b1!4m5!3m4!1s0x4876130708780a71:0xfb655f2ee478a00!8m2!3d51.565073!4d-0.332175" target="_blank">The Clementine Churchill Hospital</strong><br/>Sudbury Hill,<br/>Harrow,<br/>Middx HA1 3RX </a> </td>
+<td><strong><a href="https://www.google.co.uk/maps/place/The+Priory+Hospital+North+London/@51.6323533,-0.119943,17z/data=!3m1!4b1!4m5!3m4!1s0x487619229fa289f1:0xcba8cabbb6b62d1f!8m2!3d51.6323533!4d-0.1177543" target="_blank">The Priory Hospital</strong><br/>North London,<br/>Grovelands House<br/>The Bourne<br/>Southgate<br/>London N14 6RA</a></td>
+<td><strong>N/A</td>
+</tr>
+</tbody>
+
+<!-- table division -->
+<thead>
+<tr>
+<th>Wednesday (AM)</th>
+<th>Wednesday (PM)</th>
+<th>Wednesday (Eve.)</th>
+<tr/>
+</thead>
+
+<tbody>
+<tr> 
+<td><strong><a href="https://www.google.co.uk/maps/place/The+Priory+Hospital+North+London/@51.6323533,-0.119943,17z/data=!3m1!4b1!4m5!3m4!1s0x487619229fa289f1:0xcba8cabbb6b62d1f!8m2!3d51.6323533!4d-0.1177543" target="_blank">The Priory Hospital</strong><br/>North London,<br/>Grovelands House<br/>The Bourne<br/>Southgate<br/>London N14 6RA</a></td>
+<td><strong><a href="https://www.google.co.uk/maps/place/The+Priory+Hospital+North+London/@51.6323533,-0.119943,17z/data=!3m1!4b1!4m5!3m4!1s0x487619229fa289f1:0xcba8cabbb6b62d1f!8m2!3d51.6323533!4d-0.1177543" target="_blank">The Priory Hospital</strong><br/>North London,<br/>Grovelands House<br/>The Bourne<br/>Southgate<br/>London N14 6RA</a></td>
+<td> <strong><a href="https://www.google.co.uk/maps/place/London+Medical+Centre/@51.5201839,-0.1563239,15z/data=!4m8!1m2!2m1!1sLondon+Medical+Centre+144+Harley+street++London+W1N+1AH!3m4!1s0x48761ad48858d807:0x81d0063d49b436d3!8m2!3d51.5227858!4d-0.1485133" target="_blank">London Medical Centre</strong><br/>144 Harley street,<br/>London W1N 1AH</a></td>
+</tr>
+</tbody>
+<!-- table division -->
+<thead>
+<tr>
+<th>Thursday (AM)</th>
+<th>Thursday (PM)</th>
+<th>Thursday (Eve.)</th>
+<tr/>
+</thead>
+
+<tbody>
+<tr> 
+<td><strong><a href="https://www.google.co.uk/maps/place/The+Priory+Hospital+North+London/@51.6323533,-0.119943,17z/data=!3m1!4b1!4m5!3m4!1s0x487619229fa289f1:0xcba8cabbb6b62d1f!8m2!3d51.6323533!4d-0.1177543" target="_blank">The Priory Hospital</strong><br/>North London,<br/>Grovelands House<br/>The Bourne<br/>Southgate<br/>London N14 6RA</a></td>
+<td><strong><a href="https://www.google.co.uk/maps/place/The+Priory+Hospital+North+London/@51.6323533,-0.119943,17z/data=!3m1!4b1!4m5!3m4!1s0x487619229fa289f1:0xcba8cabbb6b62d1f!8m2!3d51.6323533!4d-0.1177543" target="_blank">The Priory Hospital</strong><br/>North London,<br/>Grovelands House<br/>The Bourne<br/>Southgate<br/>London N14 6RA</a></td>
+<td><strong><a href="https://www.google.co.uk/maps/place/Priory+Wellbeing+Centre,+Fenchurch+London/@51.5117378,-0.0851626,17z/data=!3m1!4b1!4m5!3m4!1s0x48760352653c37e1:0x5643088767e698ca!8m2!3d51.5117378!4d-0.0829739" target="_blank">The Priory Wellbeing Centre</strong><br/>150-152 Fenchurch Street<br/>London EC3M 6BB</a></td>
+</tr>
+</tbody>
+
+<!-- table division -->
+<thead>
+<tr>
+<th>Friday (AM)</th>
+<th>Friday (PM)</th>
+<th>Friday (Eve.)</th>
+<tr/>
+</thead>
+
+<tbody>
+<tr> 
+<td><strong><a href="https://www.google.co.uk/maps/place/The+Priory+Hospital+North+London/@51.6323533,-0.119943,17z/data=!3m1!4b1!4m5!3m4!1s0x487619229fa289f1:0xcba8cabbb6b62d1f!8m2!3d51.6323533!4d-0.1177543" target="_blank">The Priory Hospital</strong><br/>North London,<br/>Grovelands House<br/>The Bourne<br/>Southgate<br/>London N14 6RA</a></td>
+<td><strong><a href="https://www.google.co.uk/maps/place/The+Holly+Private+Hospital/@51.624389,0.0299897,17z/data=!3m1!4b1!4m5!3m4!1s0x47d8a0e92159ec65:0x6deb4b98cde9b3f5!8m2!3d51.624389!4d0.0321784" target="_blank">The Holly Private Hospital</strong><br/>High Rd,<br/>Buckhurst Hill,<br/>Essex IG9 5HX</a></td>
+<td><strong>N/A</strong></td>
+</tr>
+</tbody>
+
+</table>
+
+<!-- /END OF TABLE -->
+
+
+
+
+
+
+
+
+</div> <!-- /vikCV -->
+</div> <!-- /vikContain -->
+
+
+</section>
+</div> <!-- /end of wrapper -->
+</body>
+</html>

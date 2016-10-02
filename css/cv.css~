@@ -1,0 +1,27 @@
+.underline {
+text-decoration:underline;
+text-align: center;
+}
+
+.vikCVHeading {
+text-align: center;
+padding: 0 ;
+margin: 0 auto;
+list-style-type:none;
+
+}
+
+
+vikContain {
+list-style-type: circle;
+background-color: #000;
+}
+
+
+cvli shade1{
+background-color: #000;
+    list-style:none;
+    padding-left:0;
+
+}
+

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Dr Vik Watts (BSc MBBS MRCP) - Consultant Psychiatrist</title>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="css/terms.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body>
+
+<div id="wrapper"> <!-- start of wrapper -->
+
+
+<header>
+<h1>Dr Vik Watts</h1>
+<h2>(BSc MBBS MRCP) </h2>
+
+<nav>
+<ul class="main_menu">
+<li> <a href="index.html">about</a></li>
+<li> <a href="cv.html">cv</a></li>
+<li> <a href="locations.html">locations</a></li>
+<li> <a href="terms.html">terms</a></li>
+<li> <a href="contact.html">contact</a></li>
+</ul>
+</nav>
+</header>
+
+<section>
+<div id="bodyContent"><br/>
+
+<div id="centerMe">
+<h3><span class="underline">Terms & Conditions</span></h3>
+</div>
+<br/>
+<div id="vikContain">
+<div id="Vik_CV">
+<!-- <h1><span class="newFont"> Selected History</span></h1> -->
+
+
+<!-- <strong>My terms and conditions are as follows:</strong> -->
+
+<ol>
+<h4 class="backgroundCol"> 
+<li class="over"><span class="termsBold backgroundCol"> If you are covered by medical insurance:</span><br/><br/></h4>
+<br/><br/>You are strongly advised to contact your insurer, before your first appointment, to:<br/>
+<span class="termsBold">a) </span>check that you are covered for psychiatric disorders;<br/>    
+<span class="termsBold">b) </span>check the limits of the cover provided for outpatient treatment and;<br/>
+<span class="termsBold">c) </span>request an authorisation or claim number (if provided).<br/>
+Your insurer will usually require you to be referred to me by your General Practitioner, or by another specialist to whom you were originally referred by your GP. 
+
+<br/><br/>
+<span class="termsBold">i)</span> If you are covered by one of the major medical insurance companies, please contact them so that I can claim my fees direct from your insurer on your behalf. This can be done by bringing your authorisation/claim number to the appointment.
+<br/>
+<span class="termsBold">ii)</span>  If you wish to make the claim yourself, then bring your claim form with you to your first consultation with me so that I can complete it. You can then forward it with the invoice that you will subsequently receive from me. By this method, you are responsible for forwarding the invoice (or any subsequent invoices) to your insurer with your claim form or authorisation number.
+<br/><br/>
+If any query arises about payment, you are responsible for contacting your insurer. Where I do not receive payments promptly, I will send you a statement and reminder.<br/><br/><em> <span class="termsBold">In case of non-payment or a shortfall under the terms of your insurance, you are responsible for settling the outstanding balance. Failure to make payment will result in the matter being referred to a debt collecting agent, whose charges will be added to and be payable with the invoice amount.</em></span>
+<br/> </li>
+
+<!-- NEW LIST DIVISION -->
+<br/>
+<h4 class="backgroundCol"> 
+<li class="over">
+<span class="termsBold backgroundCol"> If you are paying personally:</span><br/><br/></h4>
+<br/>If you are paying for your consultation with me personally, you should pay me at the end of the session and I will give you a receipt. Cheques are made payable to  Dr Vik Watts.<br/><br/>
+<span class="termsBold"> <em>Payment by credit or debit card can be made by phoning Marilyn Murray (0208 920 5627) prior to the appointment.</em></span><br/>    
+</li>
+<!-- NEW LIST DIVISION -->
+<br/>
+<h4 class="backgroundCol"> 
+<li class="over">
+<span class="termsBold backgroundCol"> If payment is being made by another person or organisation:</span><br/><br/></h4>
+<br/>If an organisation, or a person other than you, is responsible for paying for your treatment, please inform me or Marilyn Murray when making your appointment. <br/><br/>
+<span class="termsBold"> Failure to make payment within 28 days will result in the matter being referred to a debt collecting agent, whose charges will be added to and be payable with the invoice amount.</span><br/>    
+</li>
+
+<!-- NEW LIST DIVISION -->
+<br/>
+<h4 class="backgroundCol"> 
+<li class="over">
+<span class="termsBold backgroundCol"> Cancellation of outpatient appointments:</span><br/><br/></h4>
+<br/>If you know you will have to cancel an appointment, please do it as soon as possible so that another patient can have your slot.  <br/><br/>
+<span class="termsBold"><em>Cancellations or missed appointments will be charged at 50% unless 24 hours' notice is given.</span><br/>  Appointments cancelled with more than 24 hours notice will not be charged.</em><br/>  
+</li>
+
+<!-- NEW LIST DIVISION -->
+<br/>
+<h4 class="backgroundCol"> 
+<li class="over">
+<span class="termsBold backgroundCol"> Private inpatient or day patient care:</span><br/><br/></h4>
+<br/>If you are insured and think you may need to be admitted to hospital after the first appointment, bring your individual or group membership number or other details of the insurance with you. For admission, I will obtain pre-authorisation from your insurer.  <br/><br/>
+
+All appointments for private consultations at all locations can be made by contacting <span class="termsBold"> Marilyn Murray </span>on 0208 920 5627.<br /><br/>
+Alternatively, appointments at  <span class="termsBold"> Spire Harpenden </span>( 0800 585 112 ), <span class="termsBold"> Clementine Churchill </span>( 0808 101 0337 ),<span class="termsBold"> Priory Wellbeing Fenchurch St </span>(0207 398 0008 ) and <span class="termsBold"> The Holly Private Hospital </span>( 0208 936 1201 ) can be made directly.<br/><br/>
+Private consultations may be paid for by an individual, a health insurer or a third party such as solicitors (but only if it has been pre-authorised in writing.)
+<br/><br/>
+<span class="termsBold"> <em>It is normally recommended that a patient obtains a referral to see a specialist from their General Practitioner. This is not necessary if you do not have a GP or if you do not wish your GP to be involved. However, if you wish to claim payment from your health insurer, you will usually need a GP referral. If medication needs to be prescribed, there are also risks if your GP is not informed as they will not have the whole picture and therefore might not prescribe.</em></span>
+
+
+<span class="termsBold"></span><br/>  
+</li>
+
+</ol>
+
+
+</div> <!-- /vikCV -->
+</div> <!-- /vikContain -->
+
+
+</section>
+</div> <!-- /end of wrapper -->
+</body>
+</html>

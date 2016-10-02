@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Dr Vik Watts (BSc MBBS MRCP) - Consultant Psychiatrist</title>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+
+<body>
+
+<div id="wrapper"> <!-- start of wrapper -->
+
+
+<header>
+<h1>Dr Vik Watts</h1>
+<h2>(BSc MBBS MRCP) </h2>
+
+<nav>
+<ul class="main_menu">
+<li> <a href="index.html">about</a></li>
+<li> <a href="cv.html">cv</a></li>
+<li> <a href="locations.html">locations</a></li>
+<li> <a href="terms.html">terms</a></li>
+<li> <a href="contact.html">contact</a></li>
+</ul>
+</nav>
+</header>
+
+<section>
+<div id="bodyContent"><br/>
+
+<div id="centerMe">
+<h3><span class="underline">Brief CV</span></h3>
+</div>
+<br/>
+<ul >
+
+<li class="shade1">Qualified in Medicine, St Mary’s Hospital Medical School, London  (now Imperial )</li>
+<br / >
+<li class="shade1">Hawker Scholarship to St Mary’s  1974-80</li>
+<br / >
+<li class="shade1">BSc (Hons) Immunology St Mary’s 1977</li>
+
+<br / >
+<li class=" shade1">Medical Qualification: MBBS London University 1981</li>
+
+ <br / >
+<li class="  shade1">Member of the Royal College of Psychiatry (MRC Psych) 1989</li>
+
+ <br / >
+<li class=" shade1">Approved under Section 12 of the Mental Health Act 1989</li>
+
+ <br / >
+<li class="  shade1">Psychiatric SHO and Registrar rotation, St George’s Hospital, London 1985-1988</li>
+
+<br/>	
+ 
+<li class=" shade1">Honorary Senior Registrar  The Maudsley Hospital, London, 1990-1992</li>
+<br / >
+<li class="  shade1">Maudsley Hospital Senior Registrar Rotation 1992-1995</li>
+<br / >
+<li class=" shade1">Consultant Psychiatrist, Chase Farm Hospital, 1995-1998</li>
+<br / >
+<li class="  shade1">Lead Consultant Psychiatrist for Addiction Treatment, Priory North London 1998</li>
+<br / >
+<li class=" shade1">Staff Consultant, The Priory Hospital North London 1998</li>
+<br />
+
+</section>
+</div> <!-- /end of wrapper -->
+</body>
+</html>
