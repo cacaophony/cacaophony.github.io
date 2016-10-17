@@ -1,10 +1,11 @@
 .termsBold {
 /*background-color:  #59d5d8;*/
 font-weight:bold;
+text-align: left;
 }
 
 .backgroundCol {
-background-color: #002147;
+background-color: #85B0BE;
 padding: 2px;
 height:20px;
 }
@@ -26,12 +27,19 @@ list-style-type: none;
 table {
 background-color: #fff;
 text-align: left;
+padding-left: 50px.none;
+/*
 padding: 4px;
 padding-left: 8px;
 padding-right:8px;
-border: 2px solid #002147;
+border: 2px  #002147;
 border-radius: 20px;
 padding-top: 2px;
 padding-bottom: 2px;
-
+*/
 }
+
+.centerClass {
+text-align: left;
+}
+
