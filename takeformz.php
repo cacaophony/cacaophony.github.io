@@ -1,5 +1,5 @@
 // Change this to YOUR address
-  $recipient = 'webmaster@example.com';
+  $recipient = 'index22@hotmail.co.uk';
   $email = $_POST['email'];
   $realName = $_POST['realname'];
   $subject = $_POST['subject'];
